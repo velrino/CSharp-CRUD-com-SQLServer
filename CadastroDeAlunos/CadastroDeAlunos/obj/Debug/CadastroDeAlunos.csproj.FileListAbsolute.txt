@@ -1,0 +1,15 @@
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\bin\Debug\CadastroDeAlunos.exe.config
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\bin\Debug\CadastroDeAlunos.exe
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\bin\Debug\CadastroDeAlunos.pdb
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.csprojResolveAssemblyReference.cache
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.frm_crud.resources
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.Properties.Resources.resources
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.csproj.GenerateResource.Cache
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.exe
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.pdb
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\bin\Debug\CURD_ALUNOS.mdf
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\bin\Debug\CURD_ALUNOS_log.LDF
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\bin\Debug\CadastroDeAlunos.exe.manifest
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\bin\Debug\CadastroDeAlunos.application
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.exe.manifest
+E:\Cursos\Desktop\Visual C#\CadastroDeAlunos\CadastroDeAlunos\obj\Debug\CadastroDeAlunos.application
